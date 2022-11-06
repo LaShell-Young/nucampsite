@@ -10,4 +10,25 @@ h3 {
 
 .jumbotron {
   margin: 0;
+  background-image: linear-gradient(
+    to right,
+    rgba(43, 0, 255, 0.894),
+    rgb(87, 0, 128)
+  );
+}
+
+.label {
+  color: azure;
+}
+
+.subLabel {
+  color: rgb(202, 191, 247);
+}
+
+.title {
+  color: rgb(71, 71, 238);
+}
+
+.footer {
+  background-image: linear-gradient(rgb(163, 135, 245), white);
 }
