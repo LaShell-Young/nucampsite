@@ -3,3 +3,11 @@ h2,
 h3 {
   font-family: Lobster;
 }
+
+.navbar {
+  background-color: #901cad;
+}
+
+.jumbotron {
+  margin: 0;
+}
