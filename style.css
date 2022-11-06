@@ -29,6 +29,11 @@ h3 {
   color: rgb(71, 71, 238);
 }
 
-.footer {
-  background-image: linear-gradient(rgb(163, 135, 245), white);
+.site-footer {
+  background-image: linear-gradient(#cec8ff, white);
+  padding: 20px 0;
 }
+
+/* .footer {
+  background-image: linear-gradient(rgb(163, 135, 245), white);
+} */
