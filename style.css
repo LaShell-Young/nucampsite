@@ -34,6 +34,12 @@ h3 {
   padding: 20px 0;
 }
 
+.tab-content {
+  border: 1px solid #ddd;
+  border-top: none;
+  padding: 10px;
+}
+
 /* .footer {
   background-image: linear-gradient(rgb(163, 135, 245), white);
 } */
