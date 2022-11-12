@@ -46,6 +46,14 @@ a:hover {
   text-decoration: none;
 }
 
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+  border: solid #5637dd;
+}
+
 /* .footer {
   background-image: linear-gradient(rgb(163, 135, 245), white);
 } */
